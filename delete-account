@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DreamPilot - Delete Account</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #333; }
+        .step { margin: 20px 0; padding: 15px; background: #f5f5f5; border-radius: 8px; }
+        .important { background: #fff3cd; padding: 15px; border-left: 4px solid #ffc107; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>DreamPilot - Account Deletion Request</h1>
+    
+    <p>To delete your DreamPilot account and associated data, please follow these steps:</p>
+    
+    <div class="step">
+        <h3>Step 1: Open the App</h3>
+        <p>Open DreamPilot on your device and navigate to Settings (Profile tab → Settings icon).</p>
+    </div>
+    
+    <div class="step">
+        <h3>Step 2: Delete Account</h3>
+        <p>Scroll down and tap "Delete Account". Confirm the deletion when prompted.</p>
+    </div>
+    
+    <div class="step">
+        <h3>Step 3: Contact Support (Alternative)</h3>
+        <p>If you need assistance, email us at <a href="mailto:support@dreampilot.app">support@dreampilot.app</a> with:</p>
+        <ul>
+            <li>Your registered email address</li>
+            <li>Subject line: "Account Deletion Request"</li>
+        </ul>
+        <p>We will process your request within 30 days.</p>
+    </div>
+    
+    <div class="important">
+        <h3>What Gets Deleted</h3>
+        <p><strong>Immediately deleted:</strong></p>
+        <ul>
+            <li>Your account credentials</li>
+            <li>All dream entries and journal data</li>
+            <li>Achievement progress and statistics</li>
+            <li>App preferences and settings</li>
+        </ul>
+        <p><strong>Retained (for legal/billing purposes):</strong></p>
+        <ul>
+            <li>Subscription payment records (retained for 7 years per tax requirements)</li>
+            <li>Aggregated, anonymized analytics data</li>
+        </ul>
+        <p><strong>Retention period:</strong> Active subscription data is kept for 30 days after deletion request to allow recovery. After 30 days, all data is permanently deleted.</p>
+    </div>
+    
+    <hr>
+    <p><small>DreamPilot | <a href="mailto:support@dreampilot.app">support@dreampilot.app</a></small></p>
+</body>
+</html>
